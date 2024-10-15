@@ -6,254 +6,251 @@ Advanced Dungeons &amp; Dragons Appendix N and Inspirational Source Material fro
 
 ### Lloyd Alexander
 
-- [ ] The Book of Three
+-   [ ] The Book of Three
 
-- [ ] Black Cauldron
+-   [ ] Black Cauldron
 
-- [ ] Castle of Llyr
+-   [ ] Castle of Llyr
 
 ### Paul Anderson
 
-- [ ] Three Hearts and Three Lions
+-   [ ] Three Hearts and Three Lions
 
-- [ ] The High Crusade
+-   [ ] The High Crusade
 
-- [ ] The Broken Sword
+-   [ ] The Broken Sword
 
-- [ ] The Merman's Children
+-   [ ] The Merman's Children
 
 ### Piers Anthony
-- [ ] A Spell of Chameleon
 
-- [ ] The Source of Magic
+-   [ ] A Spell of Chameleon
 
-- [ ] Castle Roogna
+-   [ ] The Source of Magic
+
+-   [ ] Castle Roogna
 
 ### Robert Asprin
 
-- [ ] Another Fine Myth
+-   [ ] Another Fine Myth
 
 ### L. Frank Baum
 
-- [ ] The Wizard of Oz
+-   [ ] The Wizard of Oz
 
-- [ ] The Emerald City of Oz
+-   [ ] The Emerald City of Oz
 
-- [ ] The Land of Oz
+-   [ ] The Land of Oz
 
 ### John Bellairs
 
-- [ ] The Face in the Frost
+-   [ ] The Face in the Frost
 
-- [ ] The House Without a Clock on its Walls
+-   [ ] The House Without a Clock on its Walls
 
-- [ ] The figure in the Shadows
+-   [ ] The figure in the Shadows
 
 ### Leigh Brackett
 
-- [ ] The Coming of the Terrans
+-   [ ] The Coming of the Terrans
 
-- [ ] The Secret of Sinharat
+-   [ ] The Secret of Sinharat
 
-- [ ] People of the Talisman
+-   [ ] People of the Talisman
 
 ### Frederic Brown
 
 ### Edgar Rice Burroughs
 
-- [ ] Pellucidar (series)
+-   [ ] Pellucidar (series)
 
-- [ ] Barsoom (Mars) (series)
+-   [ ] Barsoom (Mars) (series)
 
-- [ ] Venus (series)
+-   [ ] Venus (series)
 
-- [ ] Tarzan of the Apes
+-   [ ] Tarzan of the Apes
 
 ### Lewis Carroll
 
-- [ ] Alice's Adventures in Wonderland
+-   [ ] Alice's Adventures in Wonderland
 
-- [ ] Through the Looking Glass
+-   [ ] Through the Looking Glass
 
 ### Lin Carter
 
-- [ ] World's End (series)
+-   [ ] World's End (series)
 
 ### J Ramsey Campbell
 
-- [ ] Demons by Daylight
+-   [ ] Demons by Daylight
 
 ### L. Sprague de Camp
 
-- [ ] Lest Darkness Fall
+-   [ ] Lest Darkness Fall
 
-- [ ] Fallible Friend
+-   [ ] Fallible Friend
 
-- [ ] The Goblin Tower
+-   [ ] The Goblin Tower
 
 ### L. Sprague de Camp & Fletcher Pratt
 
-- [ ] Harold Shea (series)
+-   [ ] Harold Shea (series)
 
-- [ ] The Carnelian Cube
+-   [ ] The Carnelian Cube
 
-- [ ] The Incomplete Enchanter
+-   [ ] The Incomplete Enchanter
 
-- [ ] Land of Unreason
+-   [ ] Land of Unreason
 
 ### August Darleth
 
 ### Avram Davidson
 
-- [ ] The Island Under the Earth
+-   [ ] The Island Under the Earth
 
-- [ ] Ursus of Ultima Thule
+-   [ ] Ursus of Ultima Thule
 
-- [ ] The Phoenix in the Mirror
+-   [ ] The Phoenix in the Mirror
 
 ### Lord Dunsany
 
-- [ ] Over the Hills and Far Away
+-   [ ] Over the Hills and Far Away
 
-- [ ] Book of Wonder
+-   [ ] Book of Wonder
 
-- [ ] The King of Elfland's Daughter
+-   [ ] The King of Elfland's Daughter
 
 ### ER Eddison
 
-- [ ] The Worm Ourboros
+-   [ ] The Worm Ourboros
 
 ### Phyllis Einstein
 
-- [ ] Born of Exile
+-   [ ] Born of Exile
 
-- [ ] Sorcerer's Son
+-   [ ] Sorcerer's Son
 
 ### Philip José Farmer
 
-- [ ] The World of the Tiers (series)
+-   [ ] The World of the Tiers (series)
 
 ### Charles G Finney
 
-- [ ] The Unholy City
+-   [ ] The Unholy City
 
-- [ ] The Circus of Dr. Lao
+-   [ ] The Circus of Dr. Lao
 
 ### Gardner Fox
 
-- [ ] Kothar (series)
+-   [ ] Kothar (series)
 
-- [ ] Kyrik (series)
+-   [ ] Kyrik (series)
 
 ### Allan Gamer
 
-- [ ] Elidor, The Weirdstone of Brisingamen
+-   [ ] Elidor, The Weirdstone of Brisingamen
 
-- [ ] The Moon of Gomrath
+-   [ ] The Moon of Gomrath
 
 ### Robert A. Heinlein
 
-- [ ] Glory Road
+-   [ ] Glory Road
 
 ### Robert E. Howard
 
-- [ ] Conan (series)
+-   [ ] Conan (series)
 
 ### Sterling Lanier
 
-- [ ] Hiero's Journey
+-   [ ] Hiero's Journey
 
 ### Fritz Leiber
 
-- [ ] Fafhrd & Gray Mouser (series)
+-   [ ] Fafhrd & Gray Mouser (series)
 
-- [ ] The Swords of Lankhmar
+-   [ ] The Swords of Lankhmar
 
-- [ ] Swords Against Wizardry
+-   [ ] Swords Against Wizardry
 
-- [ ] Swords Against Death
+-   [ ] Swords Against Death
 
 ### Ursula K. Le Guin
 
-- [ ] A Wizard of Earthsea
+-   [x] A Wizard of Earthsea
 
-- [ ] The Tombs of Atuan
+-   [ ] The Tombs of Atuan
 
-- [ ] The Farthest Shore
+-   [ ] The Farthest Shore
 
 ### CS Lewis
 
-- [ ] The Lion, The Witch and the Wardrobe
+-   [ ] The Lion, The Witch and the Wardrobe
 
-- [ ] Prince Caspian
+-   [ ] Prince Caspian
 
-- [ ] The Voyage of the "Dawn Treader"
+-   [ ] The Voyage of the "Dawn Treader"
 
 ### HP Lovecraft
 
-- [ ] The Doom that Came to Samath
+-   [ ] The Doom that Came to Samath
 
-- [ ] The Dream Quest of Unkown Kadath
+-   [ ] The Dream Quest of Unkown Kadath
 
-- [ ] The Dunwich Horror
+-   [ ] The Dunwich Horror
 
 ### A Merrit
 
-- [ ] Creep, Shadow, Creep
+-   [ ] Creep, Shadow, Creep
 
-- [ ] The Moon Pool
+-   [ ] The Moon Pool
 
-- [ ] Dwellers in the Mirage
-
+-   [ ] Dwellers in the Mirage
 
 ### Michael Moorcock
 
-- [ ] Stormbringer
+-   [ ] Stormbringer
 
-- [ ] The Stealer of Souls
+-   [ ] The Stealer of Souls
 
-- [ ] Hawkmoon (series, first 3 books)
+-   [ ] Hawkmoon (series, first 3 books)
 
 ### Andre Norton
 
-- [ ] Witch World
+-   [ ] Witch World
 
-- [ ] The Year of the Unicorn
+-   [ ] The Year of the Unicorn
 
-- [ ] The Crystal Gryphon
+-   [ ] The Crystal Gryphon
 
 ### Andrwe J Offutt
 
-- [ ] Swords Against Darkness III
+-   [ ] Swords Against Darkness III
 
 ### Fletcher Pratt
 
-- [ ] Blue Star
-
+-   [ ] Blue Star
 
 ### Fred Saberhagen
 
-- [ ] Changeling Earth
-
+-   [ ] Changeling Earth
 
 ### Margaret St. Clair
 
-- [ ] The Shadow People
+-   [ ] The Shadow People
 
-- [ ] Sign of the Labrys
+-   [ ] Sign of the Labrys
 
 ### JRR Tolkien
 
-- [ ] The Hobbit
+-   [x] The Hobbit
 
-- [ ] The Lord of the Rings (trilogy)
+-   [x] The Lord of the Rings (trilogy)
 
 ### Jack Vance
 
-- [ ] The eyes of the Overworld
+-   [ ] The eyes of the Overworld
 
-- [ ] The Dying Earth
-
+-   [ ] The Dying Earth
 
 ### Stanley Weinbaum
 
@@ -261,12 +258,12 @@ Advanced Dungeons &amp; Dragons Appendix N and Inspirational Source Material fro
 
 ### Theodore H. White
 
-- [ ] The Once and Future King
+-   [ ] The Once and Future King
 
 ### Jack Williamson
 
 ### Roger Zelazny
 
-- [ ] Jack of Shadows
+-   [ ] Jack of Shadows
 
-- [ ] Amber (series)
+-   [ ] Amber (series)
